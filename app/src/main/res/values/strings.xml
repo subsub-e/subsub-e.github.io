@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Forecast</string>
+    <string name="change_city">Change city</string>
+
+    <string-array name="spinner_menu_item">
+        <item>Current</item>
+        <item>Weekly</item>
+    </string-array>
+
+    <string name="current">Current Weather</string>
+    <string name="weekly">Weekly Weather</string>
+
+    <string name="open_weather_maps_app_id">52b973d7c13c0da12b5775349365b15b</string>
+
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+
+    <string name="place_not_found">Sorry, no weather data found.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
